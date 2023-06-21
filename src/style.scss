@@ -1,0 +1,16 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+ .wp-block-create-block-ja-social-block {
+    display: flex;
+    flex-direction: row;
+
+}
+ .facebook--brand {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #3D5A98;
+}

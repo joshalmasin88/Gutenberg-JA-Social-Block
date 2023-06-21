@@ -1,0 +1,28 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "create-block/ja-social-block",
+  "version": "0.1.0",
+  "title": "Ja Social Block",
+  "category": "widgets",
+  "icon": "admin-links",
+  "description": "Social Media Block For Facebook and Instagram",
+  "supports": {
+    "html": false
+  },
+  "attributes": {
+    "facebookURL": {
+      "type": "string"
+    },
+    "instagramURL": {
+      "type": "string"
+    },
+    "linkedinURL": {
+      "type": "string"
+    }
+  },
+  "textdomain": "ja-social-block",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}
