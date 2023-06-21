@@ -2,8 +2,10 @@
 # Social Media Links Block For Gutenberg
 
 
-
 Simple Gutenberg Block To Display Social Media Accounts Using SVG.
+![screenshot 1](https://github.com/joshalmasin88/Gutenberg-JA-Social-Block/blob/main/screenshot1.PNG)
+
+![screenshot 2](https://github.com/joshalmasin88/Gutenberg-JA-Social-Block/blob/main/screenshot2.PNG)
 ## Project
 
 These Gutenberg mini projects are ideas i came up with to help strengthen my skills in building blocks and using react. Here is a list of mini projects i will complete.
